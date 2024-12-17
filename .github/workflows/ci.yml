@@ -11,3 +11,9 @@ jobs:
 
       - name: Hello!!
         run: echo "Hello!! from ${{ github.workflow }} triggers on ${{ github.event_name }} event on ${{ github.ref }} branch with ${{ github.sha }} commit, done by ${{ github.actor }}"
+
+      - name: 🚀 More !
+        env:
+          MY_NAME: ${{ toJson(job) }}
+        run: |
+          echo "Job ${{ job.status }} with $MY_NAME id"
