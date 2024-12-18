@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[mockserver-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[mockserver-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'mockserver-build' to '/Users/alexanderperilla/Documents/personal/scala/mockserver/project/.bloop/mockserver-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/mockserver-build.json[0m

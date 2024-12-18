@@ -6,3 +6,9 @@ hs_err_pid*
 /.bsp/
 /.idea/
 /target/
+/.vscode/
+/.classpath
+/.project
+/.settings/
+/.metals/
+/.bloop/
